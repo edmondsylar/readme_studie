@@ -1,0 +1,10 @@
+[
+  "test_routes.py::All_tests::test_defualt_route_returns_correct_info", 
+  "test_routes.py::All_tests::test_empty_order_not_accepted", 
+  "test_routes.py::All_tests::test_for_post_method_working", 
+  "test_routes.py::All_tests::test_get_all_endpoint", 
+  "test_routes.py::All_tests::test_index", 
+  "test_routes.py::All_tests::test_order_really_created", 
+  "test_routes.py::All_tests::test_orders_added_to_order_list", 
+  "test_routes.py::All_tests::test_update"
+]

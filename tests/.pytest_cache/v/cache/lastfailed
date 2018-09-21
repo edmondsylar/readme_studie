@@ -1,0 +1,17 @@
+{
+  "test_routes.py::All_tests::test_delete": true, 
+  "test_routes.py::TestCase::test_get_all_method": true, 
+  "test_routes.py::TestCase::test_get_one_method_response_data": true, 
+  "test_routes.py::TestCase::test_get_one_method_response_status_code": true, 
+  "test_routes.py::TestCase::test_index_route_response": true, 
+  "test_routes.py::TestCase::test_post_method_content_type_response_data": true, 
+  "test_routes.py::TestCase::test_post_method_content_type_response_status_code": true, 
+  "test_routes.py::TestCase::test_post_method_missing_fields_response_data": true, 
+  "test_routes.py::TestCase::test_post_method_missing_fields_response_status_code": true, 
+  "test_routes.py::TestCase::test_post_method_response_data": true, 
+  "test_routes.py::TestCase::test_post_method_response_status_code": true, 
+  "test_routes.py::TestCase::test_put_method_response_data": true, 
+  "test_routes.py::TestCase::test_put_method_response_status_code": true, 
+  "test_routes.py::all_tests::test_default_route": true, 
+  "test_routes.py::all_tests::test_orders_initially_empty": true
+}
