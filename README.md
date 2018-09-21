@@ -1,2 +1,1 @@
-# ESS
-[![Build Status](https://travis-ci.org/edmondsylar/readme_studie.svg?branch=api)](https://github.com/edmondsylar/readme_studie) [![Coverage Status](https://coveralls.io/repos/github/edmondsylar/readme_studie/badge.svg?branch=api)](https://coveralls.io/github/edmondsylar/readme_studie?branch=master) 
+#ESS trials for travis CI
