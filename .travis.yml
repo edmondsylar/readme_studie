@@ -1,13 +1,14 @@
 language: python
-cache: pip
+
+python:
+  - 3.6
+
 install:
   - pip install -r requirements.txt
-  - pip install coverage
-  - pip install coveralls
-  - pip install nose
 
 script:
+  # - cd API
   - nosetests --with-coverage --cover-package=tests
-
-after_success:
+  
+after_success: 
   - coveralls
