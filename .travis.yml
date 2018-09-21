@@ -7,7 +7,7 @@ install:
   - pip install nose
 
 seript:
-  - nosetests -v --with-coverage-package=app
+  - nosetests -v --with-coverage-package=api
 
 after_success:
   - coveralls
